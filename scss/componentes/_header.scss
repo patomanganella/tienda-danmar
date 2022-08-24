@@ -14,13 +14,15 @@
 
 .container-nav{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: start;
+    margin-left: 100px;
     
 }
 
 .img-logo{
     width: 150px;
     height: 150px;
+    margin-left: 150px;
 }
 
 

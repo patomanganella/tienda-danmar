@@ -9,12 +9,83 @@
 
 .container-nav {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: start;
+  margin-left: 100px;
 }
 
 .img-logo {
   width: 150px;
   height: 150px;
+  margin-left: 150px;
+}
+
+.home-slogan {
+  padding-left: 100px;
+  padding-top: 100px;
+}
+
+.btn-home {
+  background-color: #E6A16F;
+  color: white;
+  border-radius: 10px;
+  width: 100px;
+  height: 50px;
+  margin: 15px;
+}
+
+.btn-home1 {
+  background-color: #E6A16F;
+  color: white;
+  letter-spacing: 1px;
+  font-size: 18px;
+  padding: 5px;
+  border-radius: 10px;
+  margin: 15px;
+  width: 380px;
+  height: 50px;
+}
+
+.lupa-home {
+  display: flex;
+  position: relative;
+  right: 80px;
+  top: 25px;
+  color: white;
+}
+
+::placeholder {
+  color: white;
+}
+
+.btn-cuenta {
+  margin-left: 250px;
+  background-color: rgba(135, 139, 139, 0.1294117647);
+  padding: 15px;
+  color: #212121;
+  border: none;
+  border-radius: 5px;
+}
+
+.btn-ingresar {
+  background-color: #03989E;
+  padding: 15px;
+  margin: 20px;
+  color: #212121;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+
+.img-perro-gato {
+  width: 250px;
+  height: 250px;
+}
+
+.conteiner-img-home {
+  display: flex;
+  position: absolute;
+  right: 200px;
+  bottom: 200px;
 }
 
 /*# sourceMappingURL=style.css.map */
