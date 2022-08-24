@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+//Verde: 03989E
+// naranja: E6A16F
+// fondo crema: F9F6F1
+// negro: 212121/// 
+
+.bg-nav{
+    background-color:#F9F6F1;
+}
+
+.container-nav{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.img-logo{
+    width: 150px;
+    height: 150px;
+}
+
+
