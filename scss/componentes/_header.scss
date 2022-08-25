@@ -9,11 +9,12 @@
 // negro: 212121/// 
 
 .bg-nav{
-    background-color:#F9F6F1;
+    background-color:#f9f3f1;
 }
 
 .container-nav{
     display: flex;
+    flex-wrap: wrap;
     justify-content: start;
     margin-left: 100px;
     

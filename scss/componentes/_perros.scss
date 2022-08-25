@@ -1,0 +1,40 @@
+.title-perros{
+    display: flex;    
+    margin-left: 620px;
+    padding-top: 50px;
+    color: #03989E ;    
+    letter-spacing: 1.5px;
+
+&:hover{
+    color: #E6A16F;
+}
+}
+
+.conteiner-perros{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+
+ 
+
+}
+
+.btn-perros{
+   
+    background-color: #E6A16F;    
+    letter-spacing: 1px;
+    font-size: 18px;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 30px;
+    width: 500px;
+    height: 50px;
+    margin-left: 100px;
+    
+    
+}
+
+.conteiner-perros a{
+    text-decoration: none;
+    color: white;
+}
