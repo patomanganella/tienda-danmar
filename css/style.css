@@ -162,4 +162,9 @@
   color: white;
 }
 
+.img-perros {
+  display: flex;
+  justify-content: center;
+}
+
 /*# sourceMappingURL=style.css.map */
